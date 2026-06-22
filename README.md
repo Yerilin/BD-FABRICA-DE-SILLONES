@@ -1,7 +1,7 @@
 # BD-CALLE_DE_LUNA
 # Base de Datos - Trabajo Práctico
 
-Repositorio que contiene los scripts SQL desarrollados para el Trabajo Práctico de la materia **Gestión de Datos** (UTN FRBA).
+Repositorio que contiene los scripts SQL desarrollados para el Trabajo Práctico de la materia **Base de Datos** (UTN FRBA).
 
 ## Descripción
 
