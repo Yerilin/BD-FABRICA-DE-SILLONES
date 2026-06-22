@@ -121,6 +121,6 @@ FROM INFORMATION_SCHEMA.VIEWS;
 
 ## Autores
 
-Trabajo práctico realizado para la materia **Gestión de Datos**.
+Trabajo práctico realizado para la materia **Base de Datos**.
 
 Universidad Tecnológica Nacional - Facultad Regional Buenos Aires.
