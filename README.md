@@ -79,40 +79,6 @@ USE GD1C2025;
 GO
 ```
 
-Verificar la base seleccionada:
-
-```sql
-SELECT DB_NAME();
-```
-
-Listar tablas:
-
-```sql
-SELECT *
-FROM INFORMATION_SCHEMA.TABLES;
-```
-
-Ver procedimientos almacenados:
-
-```sql
-SELECT name
-FROM sys.procedures;
-```
-
-Ver funciones:
-
-```sql
-SELECT name
-FROM sys.objects
-WHERE type IN ('FN','IF','TF');
-```
-
-Ver vistas:
-
-```sql
-SELECT *
-FROM INFORMATION_SCHEMA.VIEWS;
-```
 
 ## Tecnologías
 
